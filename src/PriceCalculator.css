@@ -1,0 +1,91 @@
+body {
+    background-color: #f0f2f5;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .price-calculator {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  h1, h2, h3 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #34495e;
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #bdc3c7;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #2c3e50;
+    background-color: #ecf0f1;
+  }
+  
+  input:focus {
+    border-color: #3498db;
+    outline: none;
+  }
+  
+  button {
+    background-color: #2980b9;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #3498db;
+  }
+  
+  .results {
+    margin-top: 30px;
+    background-color: #eaf2f8;
+    padding: 20px;
+    border-radius: 4px;
+    border-left: 5px solid #3498db;
+  }
+  
+  .results p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #2c3e50;
+  }
+  
+  .tips {
+    margin-top: 30px;
+    background-color: #e8f6f3;
+    padding: 20px;
+    border-radius: 4px;
+    border-left: 5px solid #1abc9c;
+  }
+  
+  .tips ul {
+    padding-left: 20px;
+  }
+  
+  .tips li {
+    margin-bottom: 10px;
+    color: #16a085;
+  }
