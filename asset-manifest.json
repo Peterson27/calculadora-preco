@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadora-preco/static/css/main.905a6326.css",
+    "main.js": "/calculadora-preco/static/js/main.1ca75e75.js",
+    "static/js/453.c318b0f4.chunk.js": "/calculadora-preco/static/js/453.c318b0f4.chunk.js",
+    "index.html": "/calculadora-preco/index.html",
+    "main.905a6326.css.map": "/calculadora-preco/static/css/main.905a6326.css.map",
+    "main.1ca75e75.js.map": "/calculadora-preco/static/js/main.1ca75e75.js.map",
+    "453.c318b0f4.chunk.js.map": "/calculadora-preco/static/js/453.c318b0f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905a6326.css",
+    "static/js/main.1ca75e75.js"
+  ]
+}
